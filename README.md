@@ -2,7 +2,7 @@
 
 ## About Me 🧬 🤖
 
-I'm an **AI researcher and developer** exploring the frontiers of **generative models**, **transformers**, and **neural interpretability**. My current focus is on building state-of-the-art models for **RNA splicing** that combine Heyna-based and transformer architectures with biological data.
+I'm an **AI researcher and developer** exploring the frontiers of **generative models**, **transformers**, and **neural interpretability**. My current focus is on building state-of-the-art models for **RNA splicing** that combine Heyna-based and transformer architectures with biological data. Visit my [website](https://saumyagupta.me/).
 
 ### Research Interests
 
